@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#aaa",
+    "navigationBarTitleText": "衣折库",
+    "navigationBarTextStyle":"black"
+  }
+}
