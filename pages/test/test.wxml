@@ -1,0 +1,6 @@
+<view class="container">
+    <text>姓名：{{myName}}</text>
+    <text>年龄：{{myAge}}</text>
+    <text>昵称：{{userInfo.nickName}}</text>
+    <text>省份：{{userInfo.province}}</text>         
+</view>
